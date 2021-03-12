@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /cdn-cgi/ # запрещает настйроки
+Sitemap: https://cod-ru.ru/sitemap.xml # указывает роботу на файл Sitemap для сайта=
+Allow: /css/*.css
+Allow: /js/*.js
+Allow: /img/*.png
+Allow: /img/*.jpg
+Crawl-Delay: 1
+
+User-agent: GoogleBot
+Disallow: /cdn-cgi/ # запрещает настйроки
+Sitemap: https://cod-ru.ru/sitemap.xml # указывает роботу на файл Sitemap для сайта=
+Allow: /css/*.css
+Allow: /js/*.js
+Allow: /img/*.png
+Allow: /img/*.jpg
+Crawl-Delay: 1
+
+User-agent: Yandex
+Disallow: /cdn-cgi/ # запрещает настйроки
+Sitemap: https://cod-ru.ru/sitemap.xml # указывает роботу на файл Sitemap для сайта=
+Allow: /css/*.css
+Allow: /js/*.js
+Allow: /img/*.png
+Allow: /img/*.jpg
+Crawl-Delay: 1
+
+
+Sitemap: https://cod-ru.ru/sitemap.xml
+Host: https://cod-ru.ru
