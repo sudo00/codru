@@ -1,0 +1,24 @@
+{
+  "name": "codru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo00/codru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo00/codru/issues"
+  },
+  "homepage": "https://github.com/sudo00/codru#readme",
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
